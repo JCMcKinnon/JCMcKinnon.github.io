@@ -57,3 +57,22 @@ iframe {
     margin-right: auto;
     width: 100%; /* Adjust width as needed */
 }
+/* Default link state */
+a:link {
+    color: white; /* Change to any color you desire */
+}
+
+/* Visited link state */
+a:visited {
+    color: white; /* Change to any color you desire */
+}
+
+/* Hover state */
+a:hover {
+    color: white; /* Change to any color you desire */
+}
+
+/* Active (being clicked) state */
+a:active {
+    color: white; /* Change to any color you desire */
+}
